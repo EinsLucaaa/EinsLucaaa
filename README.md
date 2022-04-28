@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently working on [TanoMC](https://github.com/TanoMC)
 
 - 👨‍💻 All of my projects are available at [https://github.com/EinsLucaaa](https://github.com/EinsLucaaa)
