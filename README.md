@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [TanoMC](https://github.com/TanoMC)<br><br>👨‍💻 All of my projects are available at [https://github.com/EinsLucaaa](https://github.com/EinsLucaaa)<br><br>📫 How to reach me **https://twitter.com/EinsLucaaa**
+👨‍💻 All of my projects are available at [https://github.com/EinsLucaaa](https://github.com/EinsLucaaa)<br><br>📫 How to reach me **https://twitter.com/EinsLucaaa**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EinsLucaaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
